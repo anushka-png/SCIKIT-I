@@ -1,6 +1,8 @@
-# SCIKIT-IMAGE
+# Scikit-image
 
-###  Analyzing the Drosophila Embryo Development using Scikit image
+### TASK :  Analyzing the Drosophila Embryo Development using Scikit image
+
+
 
 Link to Repository : https://github.com/scikit-image/scikit-image
 # scikit-image: Image processing in Python
